@@ -1,4 +1,3 @@
-Developpement
-=============
+# My blog, work in progress
 
-http://laegel-developpement.fr
+https://laegels-lab.com
